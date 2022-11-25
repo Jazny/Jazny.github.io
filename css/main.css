@@ -1,16 +1,30 @@
 body{
-    background-color: rgb(27, 27, 27);
-    color:rgb(119, 212, 166);
+    background-color: white;
+    color:rgb(0, 0, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h1 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
 
 h2 {
     font-weight: lighter;
-    margin-bottom: 2%;
 }
 
 h3 {
     font-weight: lighter;
-    margin-bottom: 2%;
+}
+
+h4 {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: rgb(34, 34, 34);
+}
+
+.navbar {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background-color: rgb(221, 219, 255);
 }
