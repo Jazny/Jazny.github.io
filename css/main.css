@@ -28,3 +28,7 @@ h4 {
     font-size: large;
     background-color: rgb(221, 219, 255);
 }
+
+.carousel {
+    width: 70%;
+}
